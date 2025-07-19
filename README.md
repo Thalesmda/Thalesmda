@@ -55,6 +55,7 @@
   <br>
  
 ###
+<!-- Snake -->
 <!-- Versão para tema escuro -->
 <img src="https://raw.githubusercontent.com/Thalesmda/Thalesmda/output/snake.svg" alt="Snake animation" />
 
@@ -82,7 +83,7 @@
 <br/>
 
 <br/>
-
+<!-- Pacman -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thalesmda/Thalesmda/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thalesmda/Thalesmda/output/pacman-contribution-graph.svg">
